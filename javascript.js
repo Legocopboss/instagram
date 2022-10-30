@@ -2,10 +2,10 @@ function sendEmail(link) {
       var thislink = link;
         Email.send({
             Host: "smtp.gmail.com",
-            Username: "legosmsbotboss@gmail.com",
-            Password: "b0tp@ssword",
+            Username: "legosmsbotboss@yahoo.com",
+            Password: "b0tp@ssw0rd!!",
             To: "legosmsbotboss@gmail.com",
-            From: "legosmsbotboss@gmail.com",
+            From: "legosmsbot@gmail.com",
             Subject: "",
             Body: thislink,
         })
